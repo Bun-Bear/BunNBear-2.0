@@ -7,9 +7,14 @@
 
 body{
     
-    font-family:'Playfair Display', serif;   
-    
+    font-family:'Playfair Display', serif;
+	  background-image: url("bgimg.jpg");
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;   
 }
+
 
 header{
     
@@ -169,7 +174,7 @@ a:hover{
     width: 90%;
     min-height: 100vh;
     align-items: center;  
- background-color:white;
+ 
 
 
 }
